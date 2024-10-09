@@ -1,6 +1,6 @@
 *.mp4
 *.zip
-*dataset*
+*dataset*/
 runs/
 train/
 val/
