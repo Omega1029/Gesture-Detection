@@ -1,0 +1,22 @@
+names:
+- dislike
+- like
+- stop_inverted
+- ok
+- mute
+- two_up
+- stop
+- peace
+- two_up_inverted
+- three
+- three2
+- call
+- one
+- rock
+- peace_inverted
+- fist
+- palm
+- four
+nc: 18
+train: ./yolo8dataset/train
+val: ./yolo8dataset/val
